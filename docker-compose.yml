@@ -1,0 +1,12 @@
+services:
+
+  rabbitmq:
+    container_name: rabbitmq-test
+    image: rabbitmq:3.12-management
+    restart: unless-stopped
+    ports:
+      - "5672:5672" # Порт для AMQP (основной протокол RabbitMQ)
+      - "15672:15672" # Порт для веб-интерфейса управления
+    environment:
+      RABBITMQ_DEFAULT_USER: admin
+      RABBITMQ_DEFAULT_PASS: password

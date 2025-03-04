@@ -1,0 +1,11 @@
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\bin\Debug\net8.0\Bus.Contract.deps.json
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\bin\Debug\net8.0\Bus.Contract.dll
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\bin\Debug\net8.0\Bus.Contract.pdb
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\obj\Debug\net8.0\Bus.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\obj\Debug\net8.0\Bus.Contract.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\obj\Debug\net8.0\Bus.Contract.AssemblyInfo.cs
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\obj\Debug\net8.0\Bus.Contract.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\obj\Debug\net8.0\Bus.Contract.dll
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\obj\Debug\net8.0\refint\Bus.Contract.dll
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\obj\Debug\net8.0\Bus.Contract.pdb
+C:\Users\aleks\source\repos\RabbitMQTestService1\Bus.Contract\obj\Debug\net8.0\ref\Bus.Contract.dll
