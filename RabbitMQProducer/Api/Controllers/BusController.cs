@@ -22,7 +22,7 @@ namespace Api.Controllers
         {
             try
             {
-                return Ok(await _busService.GetAsync());
+                return Ok(await _busService.GetResponseAsync());
             }
             catch (Exception e)
             {
@@ -35,7 +35,7 @@ namespace Api.Controllers
         {            
             try
             {
-                await _busService.SetAsync(setValue);
+                await _busService.SendAsync(setValue);
                 return Ok();
             }
             catch (Exception e)

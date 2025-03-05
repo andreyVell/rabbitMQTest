@@ -2,7 +2,7 @@
 {
     public interface IBusService
     {
-        public Task<string> GetAsync();
-        public Task SetAsync(string obj);
+        public Task<string> GetResponseAsync();
+        public Task SendAsync(string obj);
     }
 }

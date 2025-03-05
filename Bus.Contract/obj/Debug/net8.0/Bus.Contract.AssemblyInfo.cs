@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bus.Contract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1658d8b702c93fc3afc23907bf6a18a5742a36da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bus.Contract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bus.Contract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

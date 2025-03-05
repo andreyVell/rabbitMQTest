@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\RabbitMQTestService1\\Bus.Contract\\Bus.Contract.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\RabbitMQTesting\\Bus.Contract\\Bus.Contract.csproj",
       "projectName": "Bus.Contract",
-      "projectPath": "C:\\Users\\aleks\\source\\repos\\RabbitMQTestService1\\Bus.Contract\\Bus.Contract.csproj",
+      "projectPath": "C:\\Users\\aleks\\source\\repos\\RabbitMQTesting\\Bus.Contract\\Bus.Contract.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\source\\repos\\RabbitMQTestService1\\Bus.Contract\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\source\\repos\\RabbitMQTesting\\Bus.Contract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

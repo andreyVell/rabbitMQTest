@@ -11,14 +11,14 @@ namespace Api.Services
         {
             _bus = bus;
         }
-        public async Task<string> GetAsync()
+        public async Task<string> GetResponseAsync()
         {
             var requestClient = _bus.CreateRequestClient<GetValueRequest>();
             var response = await requestClient.GetResponse<GetValueResponse>(new GetValueRequest());
             return response.Message.Result ?? "";
         }
 
-        public async Task SetAsync(string obj)
+        public async Task SendAsync(string obj)
         {
             //direct отправка
             var endpoint = await _bus.GetSendEndpoint(new Uri("queue:service-queue"));
